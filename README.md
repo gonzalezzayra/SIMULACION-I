@@ -1,2 +1,2 @@
-# SIMULACI-N-I
+# SIMULACION-I
 Curso de Simulación I 
